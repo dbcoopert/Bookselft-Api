@@ -46,7 +46,7 @@ bookshelf-api/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/bookshelf-api.git
+git clone https://github.com/dbcoopert/bookshelf-api.git
 ```
 
 ### 2. Masuk ke Folder Project
