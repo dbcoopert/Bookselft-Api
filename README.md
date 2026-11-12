@@ -171,7 +171,7 @@ npx eslint .
 
 Mahasiswa Teknik Informatika – Universitas Nusa Putra.
 
-- GitHub: [@USERNAME](https://github.com/dbcoopert)
+- GitHub: [@Asep Mardianto](https://github.com/dbcoopert)
 
 ---
 
